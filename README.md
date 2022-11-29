@@ -1,6 +1,8 @@
 # White Terminal Theme
 Just my color scheme for my terminal.
 
+![An image showing 4 terminal emulators running this white theme. First termial is running the command "top", just black and white. Second terminal running "htop", colorful and easily readable. Third terminal running the "ls" command on a directory. And final terminal running "vi/vim" on a C source code file.](https://github.com/xDahl/WhiteTerminalTheme/blob/main/theme.png?raw=true)
+
 I decided to post this theme here, as I couldn't\
 find any good white themes online (they're all so bad).\
 And I didn't want to lose it if I change distro... again...\
@@ -53,5 +55,4 @@ C5 Blue:    #0c305d
 C6 Magenta: #6d2f7c
 C7 Cyan:    #1c6b77
 C8 White:   #8b8a88
-
 ```
